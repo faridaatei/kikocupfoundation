@@ -233,7 +233,8 @@ p {
 	padding-bottom: 60px;
 }
 .bg-section{
-	background:url('http://placehold.it/1920x700') no-repeat center center; 
+	background:url('../images/boll.jpg') no-repeat center center; 
+	/*background-image: url("../images/award.png");*/
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 
@@ -560,7 +561,8 @@ strong, b{
 4. Match Facts
 ============================= */
 .stat-facts{
-	background:url('http://placehold.it/1920x400') no-repeat center center; 
+	/*background:url('http://placehold.it/1920x400') no-repeat center center; */
+	background:url('../images/mpira1.png') no-repeat center center;/*1920by400*/
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 
@@ -1723,7 +1725,7 @@ td.tw10{
 	background-color: #29ABE2;
 }
 .bg-client{
-	background:url('http://placehold.it/1920x700') no-repeat center center; 
+	background:url('../images/grao4.png') no-repeat center center; /*(big image above footer)*/
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 

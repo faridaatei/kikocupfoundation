@@ -514,7 +514,9 @@ strong, b{
 }
 
 .subbanner{
-	background:url('http://placehold.it/1920x400') no-repeat center center;
+	/*background:url('http://placehold.it/1920x400') no-repeat center center;""BACKGROUND OF ABOUT PAGE"*/
+	background:url('../images/legback.jpg') no-repeat center center;/*1920by400*/
+	-webkit-background-size: cover; 
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 

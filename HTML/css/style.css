@@ -125,7 +125,8 @@ body{
     margin: -100px 0 0 -100px;
     width: 200px;
     height: 200px;
-    background-image: url("../images/apple-touch-icon.png");
+   /* background-image: url("../images/apple-touch-icon.png");ORIGINAL CODE*/
+    background-image: url("../images/logokiko.png");
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -1126,7 +1127,8 @@ td.tw10{
     padding: 0px 0px;
 }
 .tab-team-bg{
-	background: url('http://placehold.it/1920x700') top center;
+	/*background: url('http://placehold.it/1920x700') top center;ORIGINAL CODE BEFORE EDITTING*/
+	background: url('../images/teamback.png') top center;
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 

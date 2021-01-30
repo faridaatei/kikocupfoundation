@@ -772,7 +772,8 @@ td.tw10{
     padding-bottom: 60px;
 }
 .bg-coach {
-    background:url('http://placehold.it/1920x700') no-repeat center center; 
+    /*background:url('http://placehold.it/1920x700') no-repeat center center; */
+    background:url('../images/teama.png') no-repeat center center; /*the copy of above*/
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 
@@ -1128,7 +1129,7 @@ td.tw10{
 }
 .tab-team-bg{
 	/*background: url('http://placehold.it/1920x700') top center;ORIGINAL CODE BEFORE EDITTING*/
-	background: url('../images/teamback.png') top center;
+	background: url('../images/teamback2.png') top center;
 	-webkit-background-size: cover; 
 	-moz-background-size: cover; 
 	-o-background-size: cover; 
